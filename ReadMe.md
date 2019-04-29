@@ -21,7 +21,7 @@ The protocol is used in corporate networks for:
 
 ### For Windows 
 
-Install Git for Windows wich is avaible ![here](https://gitforwindows.org/), then 
+Install Git for Windows wich is avaible [here](https://gitforwindows.org/), then 
 
 ```shell
 ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
